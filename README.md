@@ -1,16 +1,13 @@
-### Hi there 👋
+### Howdy 👋 My name's Matt!
 
-<!--
-**wingmatt/wingmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Depending on the day, I'm a professional tinkerer, active listener, and/or project manager.
 
-Here are some ideas to get you started:
+I've built web apps, virtualized domain controllers, and counseled memory care patients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love when getting my stuff done includes TypeScript, solar power, or learning something new.
+
+- 🔭 I’m currently working on [Blatherbrush](https://wingmatt.dev/projects/blatherbrush/), a multiplayer AI image generation web app.
+- 🌱 I’m going through Josh W. Comeau's Joy of React course right now to better understand what's going on with React under the hood.
+- 💬 Ask me about TypeScript, React, or cooking 👨‍🍳
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I forgot how to ride a bike. They said it couldn't be done!
